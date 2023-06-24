@@ -2,6 +2,10 @@
 
 This repository contains a university data science project aimed at analyzing house prices based on multiple quantitative factors and subsequently creating a recommendation system. The dataset includes variables such as house prices, crime rates, broadband speeds, build types, and others.
 
+## Project Report
+
+For a more detailed explanation and breakdown of the project, please refer to the [project report](https://github.com/Bogdan-Florian/uk-counties-house-price-analysis/blob/master/report.pdf).
+
 ## Project Structure
 
 The project is structured into several parts, as described below:
